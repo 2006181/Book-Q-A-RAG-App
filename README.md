@@ -18,6 +18,10 @@ A local Retrieval-Augmented Generation (RAG) app for asking questions about a PD
 
 The embedding model is downloaded from the Hugging Face Hub the first time it runs. A Hugging Face token is optional for this public model; without one, the Hub may apply lower rate limits.
 
+## Deployment Link 
+
+Streamlit - https://book-q-a-rag-app-yfbrelypj22kgil6tytomd.streamlit.app/
+
 ## Setup
 
 Open PowerShell in the project directory and run:
